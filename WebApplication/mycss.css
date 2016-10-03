@@ -1,0 +1,13 @@
+body{
+	background-color: 065773;
+	/*font-family: arial;*/
+	/*font-size: 14px;*/
+}
+.well{
+	background-color: white;
+}
+.well .newsRow{
+	background-color: Gainsboro;
+}
+
+
